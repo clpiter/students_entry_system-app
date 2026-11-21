@@ -1,6 +1,9 @@
 {
   "name": "myapp",
   "displayName": "myapp",
+  "android": {
+    "package": "com.myapp"
+  },
   "extra": {
     "eas": {
       "projectId": "df5dfd0c-5bb8-4e88-8b60-f377a226301e"

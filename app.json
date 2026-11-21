@@ -1,4 +1,10 @@
 {
   "name": "myapp",
-  "displayName": "myapp"
+  "displayName": "myapp",
+  "extra": {
+    "eas": {
+      "projectId": "aa35af93-54b0-4aac-af08-0ec10dfe770a"
+    }
+  },
+  "owner": "clpiter"
 }

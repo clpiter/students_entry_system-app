@@ -1,6 +1,7 @@
 {
   "name": "myapp",
   "displayName": "myapp",
+  "slug": "first-app",
   "android": {
     "package": "com.myapp"
   },
